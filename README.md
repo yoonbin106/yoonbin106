@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/JWT-6DB33F?style=for-the-badge&logo=jsonwebtokens&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/eclipse_mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">&nbsp
 </p><br/>
 
 
