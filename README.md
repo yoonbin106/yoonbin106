@@ -2,7 +2,7 @@
 <!-- Header -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20yoonbin106's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50&background=transparent" alt="Welcome to yoonbin106's GitHub">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20yoonbin106's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50&background=transparent" alt="yoonbin106's GitHub">
 </div>
 
 
